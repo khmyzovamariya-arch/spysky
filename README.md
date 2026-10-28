@@ -1,10 +1,10 @@
-
+# spysky
 <!DOCTYPE html>
 <repice html>
 <html lang="uk">
 <head>
   <meta charset="UTF-8">
-  <title>Рецепт: …</title>
+  <title>Рецепт: </title>
 </head>
 <body>
   <!-- 1. Піца -->
